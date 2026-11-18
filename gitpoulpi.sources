@@ -1,0 +1,14 @@
+# GitPoulpi apt repository (deb822). Install as /etc/apt/sources.list.d/gitpoulpi.sources:
+#
+#   sudo install -d /etc/apt/keyrings
+#   curl -fsSL https://poulpi-lab.github.io/apt-gitpoulpi/gitpoulpi-archive-keyring.gpg | sudo tee /etc/apt/keyrings/gitpoulpi.gpg >/dev/null
+#   sudo curl -fsSL -o /etc/apt/sources.list.d/gitpoulpi.sources https://poulpi-lab.github.io/apt-gitpoulpi/gitpoulpi.sources
+#   sudo apt update && sudo apt install gitpoulpi
+#
+# GitPoulpi looks for /etc/apt/sources.list.d/gitpoulpi.* to tell an apt install from a downloaded .deb.
+Types: deb
+URIs: https://poulpi-lab.github.io/apt-gitpoulpi
+Suites: stable
+Components: main
+Architectures: amd64 arm64
+Signed-By: /etc/apt/keyrings/gitpoulpi.gpg

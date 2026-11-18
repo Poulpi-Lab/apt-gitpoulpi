@@ -1,0 +1,21 @@
+Package: gitpoulpi
+Architecture: arm64
+Version: 1.0.0-1
+Priority: optional
+Section: vcs
+Maintainer: GitPoulpi contributors <noreply@users.noreply.github.com>
+Installed-Size: 218724
+Depends: git, libc6 (>= 2.34), zlib1g (>= 1:1.1.4)
+Recommends: git-lfs
+Filename: pool/gitpoulpi_1.0.0-1_arm64.deb
+Size: 53943052
+MD5sum: c9ca024ec22ab1a25e679bfb6a71f92e
+SHA1: 58b4116b9786ae25cc24cb540ec04e039245eabc
+SHA256: 16e56b8a12670ad380352042f25976f775788fe8ec15a6fc108c3341b6dddf69
+SHA512: 6c3d64a99511197ac857f3399b3192111a3c1175a953a5cb95622d99b14f8500b611df6b29cfb63f0ec634b73dd901d9091a528531d57df277cf7113b8b47249
+Homepage: https://github.com/Poulpi-Lab/GitPoulpi
+Description: `gitpoulpi` scriptable CLI: an IPC client over gitpoulpi-ipc, auto-starting its
+ target session's daemon on first use.
+ A Git client for the terminal with a clickable commit graph, a command palette,
+ hosting integrations, a scriptable CLI and an MCP server.
+

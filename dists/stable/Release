@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Wed, 18 Nov 2026 22:04:53 +0000
+Description: GitPoulpi apt repository
+Label: GitPoulpi
+Origin: GitPoulpi
+Suite: stable
+MD5Sum:
+ 910c36a0bf2d28bf64960c5a2107abe5              186 Release
+ 3a080fa68fed4308f7e995e39096d838              931 main/binary-amd64/Packages
+ 87ec48002e89d5bec0a3353db995494d              640 main/binary-amd64/Packages.gz
+ 01ef324142c61a62047602284f498134              931 main/binary-arm64/Packages
+ 63ea87a5edeadc057672e2b34ccc45df              638 main/binary-arm64/Packages.gz
+SHA1:
+ e7d4372244356c168d2f65f66829628ad7f336a9              186 Release
+ c49c3b54515d2925e32fac5374206e265f0efc79              931 main/binary-amd64/Packages
+ d7a5e4c90b41dc6ae6daa01617098be3598cb096              640 main/binary-amd64/Packages.gz
+ 9deca6595865725da6113a9890d56797e0bf353c              931 main/binary-arm64/Packages
+ c57c90a2842616705266b0407b3cfdcee8b85c4d              638 main/binary-arm64/Packages.gz
+SHA256:
+ 609f0b823ea86a1b8b51b62f339c74f7f9573c72acca1493367957e9f74f39b8              186 Release
+ 18c9aff9a5bc2a19e6e20fa703efe716fe07a11d645d127f5e0baf34dcfe9956              931 main/binary-amd64/Packages
+ 4dbccc4aa1b2f887e9bae6883b61b8b87b23d303fe41938db39bb32011793f0c              640 main/binary-amd64/Packages.gz
+ 48fd3ef54ac814f1c52bfa4bdf59fcd92b6d72fc8134750397e3cf1808619c15              931 main/binary-arm64/Packages
+ d15eafdbac9649d6192880ecffaf16c3d24b6f5b8596e6ce0aac47b9243953c7              638 main/binary-arm64/Packages.gz
+SHA512:
+ 9b9fd9a329c276193a3961fe7f0926497f60d3490c576c70b0f31a9f637e7430499bbc42ad577c053a5a69a5127142a9cab7739bfb84de5fb9de59e58a8e61de              186 Release
+ 643b040e7fe9fdbbc13d3a3d8630e8718c54df935b16418290afae6f553453c6ff2d9091e9e3d138b840875b60c281f372f380438c323936c38501fcc7137b84              931 main/binary-amd64/Packages
+ 928ab8ae8938bc48f7f030a8824dfa6c72eecf69b8dacb0f0a829745375fc08d3e3774b4b59e27caba1fc5e33a411ecc23f349049560b6b8b75a97d3d4fb55aa              640 main/binary-amd64/Packages.gz
+ 88a4a766f9d92d5e31fa08a6a2e9819314c1aaffe3d25467f1a9d8ad30b7fc8b8f7898f3ea87f05f724186a7543fc5f3c9472922bf2320a233ed68d88f25e487              931 main/binary-arm64/Packages
+ f19abc4cff6d387e09db226ac1e0035591de8e910cb1a7194d87f61bf83b131817782cb0d3d0c7aeab18a86c2bd32de1c92402314dbdf0459ab70c0f7e13224f              638 main/binary-arm64/Packages.gz
